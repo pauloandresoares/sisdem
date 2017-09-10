@@ -1,0 +1,10 @@
+D:\Projetos\Sisdem\bin\Debug\netcoreapp2.0\Sisdem.deps.json
+D:\Projetos\Sisdem\bin\Debug\netcoreapp2.0\Sisdem.runtimeconfig.json
+D:\Projetos\Sisdem\bin\Debug\netcoreapp2.0\Sisdem.runtimeconfig.dev.json
+D:\Projetos\Sisdem\bin\Debug\netcoreapp2.0\Sisdem.dll
+D:\Projetos\Sisdem\bin\Debug\netcoreapp2.0\Sisdem.pdb
+D:\Projetos\Sisdem\obj\Debug\netcoreapp2.0\Sisdem.csproj.CoreCompileInputs.cache
+D:\Projetos\Sisdem\obj\Debug\netcoreapp2.0\Sisdem.AssemblyInfoInputs.cache
+D:\Projetos\Sisdem\obj\Debug\netcoreapp2.0\Sisdem.AssemblyInfo.cs
+D:\Projetos\Sisdem\obj\Debug\netcoreapp2.0\Sisdem.dll
+D:\Projetos\Sisdem\obj\Debug\netcoreapp2.0\Sisdem.pdb
